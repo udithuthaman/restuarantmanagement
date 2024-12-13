@@ -1,2 +1,2 @@
 # Restuarant Management System
-My simplpe project in JAVA
+My simple project in JAVA
